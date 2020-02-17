@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>writing on looking for something</title>
+    <link>https://vphamdev.github.io/tags/writing/</link>
+    <description>Recent content in writing on looking for something</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Feb 2020 14:06:40 -0600</lastBuildDate>
+    
+	<atom:link href="https://vphamdev.github.io/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning to Write</title>
+      <link>https://vphamdev.github.io/posts/learning-to-write/</link>
+      <pubDate>Mon, 17 Feb 2020 14:06:40 -0600</pubDate>
+      
+      <guid>https://vphamdev.github.io/posts/learning-to-write/</guid>
+      <description>I’m learning to write. Here are some things along the way.
+Books On Writing Well by William Zinsser
+Taking notes How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing | Praxis
+Creating an online home The Ultimate Guide to Writing Online | David Perell</description>
+    </item>
+    
+  </channel>
+</rss>
